@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+.venv/
+.venv-linux/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Base de dados SQLite
+*.db
+*.sqlite3
+techlog.db
+
+# VS Code e Sistema
+.vscode/
+.DS_Store
+__MACOSX/
+
+# Variáveis de ambiente
+.env
